@@ -1,0 +1,26 @@
+body { 
+    background-image: url('https://i.ytimg.com/vi/EJa6jS3R3IM/maxresdefault.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+h1 {
+	font-family: "Disney";
+	font-size: 700%;
+	color: gold;
+}
+
+h2, h3 {
+	font-family: "Disney";
+	font-size: 400%;
+	color: white;
+}
+
+@font-face {font-family: "Disney"; src: url('http://static.tumblr.com/npggxjg/VdAlzs1dx/disney.otf');}
+
+.box {
+	margin: 3% 10%;
+	background: rgba(0, 0, 0, 0.6);
+	padding-bottom: 1%;
+}
