@@ -72,7 +72,7 @@ document.onkeyup = function(input) {
             }
         }
 
-        if (input.which >= '48' && input.which <= '90') {
+        if (input.which >= '65' && input.which <= '90') {
             var match = false;
 
             for (var i = 0; i < length; i++) {
